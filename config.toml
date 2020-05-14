@@ -26,7 +26,7 @@ publishDir = "docs"
 
 # These settings specify the title for your blog, and the name of
 # the Hugo theme that it uses.
-title = "Slumdown"
+title = "Matt Broerman"
 theme = "hugo-slum"
 
 
@@ -110,7 +110,7 @@ footnotereturnlinkcontents = "↩"
 [params]
     siteHeader = "header/klee_thin2.png"
     siteProfile = "header/circle_sm.png"
-    twitterImage = "https://djnavarro.github.io/hugo-slum/header/slumdown.png"
-    colourScheme = "css/palette_dark.css"
-    description = "A website built using slumdown."
-    footer = "&copy; [Danielle Navarro](https://djnavarro.net) 2018--2019 | [Github](https://github.com/djnavarro) | [Twitter](https://twitter.com/djnavarro)"
+    twitterImage = "https://tiptoebull.github.io/blog/header/circle_sm.png"
+    colourScheme = "css/palette_light.css"
+    description = "Projects, opinions, and bull."
+    footer = "Based on the lovely &copy; [slumdown theme](https://github.com/djnavarro/slumdown) | Matt Broerman 2019-2020 | [Github](https://github.com/tiptoebull) | [Twitter](https://twitter.com/tiptoebull)"
