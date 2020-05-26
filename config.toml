@@ -27,7 +27,7 @@ publishDir = "docs"
 # These settings specify the title for your blog, and the name of
 # the Hugo theme that it uses.
 title = "Matt Broerman"
-theme = "hugo-slum"
+theme = "hugo-lithium"
 
 
 
